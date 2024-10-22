@@ -1,1 +1,5 @@
-Cambio segundo feature
+<<<<<<< HEAD
+Merfe conflictivo
+=======
+GIt merge
+>>>>>>> feature
